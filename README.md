@@ -1,2 +1,3 @@
-# MongoDB
-MongoDB for developers course
+MongoDB for developers course.
+
+Here's the code.
